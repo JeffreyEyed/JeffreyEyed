@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeffrey</h1>
 <h3 align="center">A passionate frontend developer from Ohio!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeffreyeyed" alt="jeffreyeyed" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/jeffmuresandev" target="blank"><img src="https://img.shields.io/twitter/follow/jeffmuresandev?logo=twitter&style=for-the-badge" alt="jeffmuresandev" /></a> </p>
 
 - 🔭 I’m currently working on **a project called Blocktoons! I will update everyone on this soon.**
