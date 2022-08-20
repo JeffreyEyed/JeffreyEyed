@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jeffreyeyed@gmail.com**
 
-- ⚡ Fun fact **I don't believe the Earth is flat ;)**
+- ⚡ Fun fact: **I don't believe the Earth is flat ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
