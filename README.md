@@ -1,5 +1,4 @@
 ![](https://github.com/JeffreyEyed/JeffreyEyed/blob/main/Jeffrey-banner.png)
-<h1 align="center">Hi 👋, I'm Jeffrey</h1>
 <h3 align="center">A passionate frontend developer from Ohio!</h3>
 
 <p align="left"> <a href="https://twitter.com/jeffmuresandev" target="blank"><img src="https://img.shields.io/twitter/follow/jeffmuresandev?logo=twitter&style=for-the-badge" alt="jeffmuresandev" /></a> </p>
