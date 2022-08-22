@@ -1,4 +1,4 @@
-![](https://github.com/user/Jeffrey-banner.png)
+![]([https://github.com/user/Jeffrey-banner.png](https://github.com/JeffreyEyed/JeffreyEyed/blob/main/Jeffrey-banner.png))
 <h1 align="center">Hi 👋, I'm Jeffrey</h1>
 <h3 align="center">A passionate frontend developer from Ohio!</h3>
 
