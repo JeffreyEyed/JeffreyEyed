@@ -1,4 +1,4 @@
-![](https://github.com/JeffreyEyed/JeffreyEyed/blob/main/My Name's Jeff.png)
+![](https://github.com/JeffreyEyed/JeffreyEyed/blob/main/My_Name_Jeff.png)
 <h3 align="center">A passionate self made developer from Ohio!</h3>
 
 <p align="left"> <a href="https://https://x.com/jeffaihq" target="blank"><img src="https://img.shields.io/x/follow/jeffaihq?logo=x&style=for-the-badge" alt="jeffaihq" /></a> </p>
