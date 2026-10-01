@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a project called Junk Drawer! I will update everyone on this soon.**
 
-- 🌱 I’m currently learning **React and CORS**
+- 🌱 I’m currently coding with **React Native**
 
 - 📫 How to reach me **hello@jeffaihq.com**
 
