@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com" target="_blank"><img align="center" src="https://shields.io" alt="jeffaihq" /></a>
+<a href="https://x.com/jeffaihq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="jeffaihq" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/jeffrey-muresan-581a8a242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jeffrey-muresan-581a8a242" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/channel/ucbagahtmdo_mhrsnct4bneg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucbagahtmdo_mhrsnct4bneg" height="30" width="40" /></a>
 <a href="https://codepen.io/jeffreyeyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jeffreyeyed" height="30" width="40" /></a>
