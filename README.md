@@ -2,6 +2,7 @@
 <h3 align="center">A passionate self made developer from Ohio!</h3>
 
 
+
 - 🔭 I’m currently working on **a project called Junk Drawer! I will update everyone on this soon.**
 
 - 🌱 I’m currently coding with **React Native**
