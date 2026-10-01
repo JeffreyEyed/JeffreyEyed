@@ -1,13 +1,13 @@
 ![](https://github.com/JeffreyEyed/JeffreyEyed/blob/main/Jeffrey-banner.png)
-<h3 align="center">A passionate frontend developer from Ohio!</h3>
+<h3 align="center">A passionate self made developer from Ohio!</h3>
 
-<p align="left"> <a href="https://twitter.com/jeffmuresandev" target="blank"><img src="https://img.shields.io/twitter/follow/jeffmuresandev?logo=twitter&style=for-the-badge" alt="jeffmuresandev" /></a> </p>
+<p align="left"> <a href="https://https://x.com/jeffaihq" target="blank"><img src="https://img.shields.io/x/follow/jeffaihq?logo=x&style=for-the-badge" alt="jeffaihq" /></a> </p>
 
-- 🔭 I’m currently working on **a project called Blocktoons! I will update everyone on this soon.**
+- 🔭 I’m currently working on **a project called Junk Drawer! I will update everyone on this soon.**
 
 - 🌱 I’m currently learning **React and CORS**
 
-- 📫 How to reach me **jeffreyeyed@gmail.com**
+- 📫 How to reach me **hello@jeffaihq.com**
 
 - ⚡ Fun fact: **I don't believe the Earth is flat ;)**
 
